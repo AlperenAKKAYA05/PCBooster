@@ -1,0 +1,19 @@
+[Override]
+ForceTripleBuffering		= 1
+ForceVerticalSynchronization	= 1
+HideForcedSettings		= 0
+KeepForcedSettings		= 1
+
+[Hooking]
+EnableHooking			= 1
+EnableSynchronization		= 1
+AggressiveCBTInjection		= 1
+HookLoadLibrary			= 1
+HookDirectDraw			= 0
+HookDirect3D8			= 1
+HookDirect3D9			= 1
+HookDirect3D10			= 1
+
+[Debug]
+EnableSoundIndication		= 1
+EnableEventLogging		= 1

@@ -1,0 +1,7 @@
+Application detection level : none
+Disables detection for the application associated with the current profile. In this mode %PRODUCTNAME% doesn't provide triple buffering and VSync forcing services to the associated application.
+
+Hints:
+- Some protected applications may treat application detection as possible threat and may refuse to run due to this reason. Try to decrease detection level for such applications to troubleshoot such issues.
+- Currently %PRODUCTNAME% doesn't detect native 64-bit applications.
+- You may disable user interface tooltips via advanced %PRODUCTNAME% settings.

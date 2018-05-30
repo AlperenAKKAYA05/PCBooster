@@ -1,0 +1,5 @@
+Disable RivaTuner event logging
+By default %PRODUCTNAME% logs all triple buffereing and VSync override events into RivaTuner's even history panel. This button allows you to disable event logging feature if you don't use RivaTuner or don't want these events to be displayed there.
+
+Hints:
+- You may disable user interface tooltips via advanced %PRODUCTNAME% settings.

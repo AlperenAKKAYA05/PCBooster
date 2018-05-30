@@ -1,0 +1,29 @@
+[Settings]
+Skin				= default.usf
+FirstRun			= 1
+StartMinimized			= 1
+StartWithWindows		= 0
+AllowSwapping			= 1
+SendToTrayOnClose		= 0
+ShowDebugOptions		= 1
+
+[FnOffsetCache]
+CacheInitializationFlags	= 0000001F
+
+DDRAW.DLL			= 00000000 00000000
+D3D8.DLL			= 00000000 00000000
+D3D9.DLL			= 00000000 00000000
+DXGI.DLL			= 00000000 00000000
+KERNEL32.DLL			= 00000000 00000000
+
+IDirectDraw4::CreateSurface	= 00000000
+IDirectDrawSurface7::Flip	= 00000000
+IDirect3D8::CreateDevice	= 00000000
+IDirect3D9::CreateDevice	= 00000000
+IDirect3DDevice8::Reset		= 00000000
+IDirect3DDevice9::Reset		= 00000000
+IDXGIFactory::CreateSwapChain	= 00000000
+IDXGISwapChain::ResizeBuffers	= 00000000
+IDXGISwapChain::Present		= 00000000
+LoadLibraryA			= 00000000
+LoadLibraryW			= 00000000

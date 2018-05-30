@@ -1,0 +1,5 @@
+Mute sound indication
+By default %PRODUCTNAME% informs you about all triple buffereing override events with standard Windows success/failure beeps. This button allows you to mute sound indication feature.
+
+Hints:
+- You may disable user interface tooltips via advanced %PRODUCTNAME% settings.

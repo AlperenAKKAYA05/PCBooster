@@ -1,0 +1,6 @@
+Force triple buffering
+Overrides application settings and forces triple buffering for the application associated with the current profile.
+
+Hints:
+- Due to 3D engine specifics some applications may refuse to run when triple buffering is forced. Disable triple buffering forcing for such applications to address such issues.
+- You may disable user interface tooltips via advanced %PRODUCTNAME% settings.

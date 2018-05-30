@@ -1,0 +1,8 @@
+Application detection level : low
+Selects low detection level for the application associated with the current profile. In this mode %PRODUCTNAME% intercepts application's calls to Direct3D runtime libraries. 
+This mode is recommended for troubleshooting and forcing triple buffering and VSync in the Direct3D applications, incompatible with higher application detection levels. Higher application detection levels are required to force triple buffering and VSync in the majority of 3D applications so use this mode for troubleshooting only.
+
+Hints:
+- Some protected applications may treat application detection as possible threat and may refuse to run due to this reason. Try to decrease detection level for such applications to troubleshoot such issues.
+- Currently %PRODUCTNAME% doesn't detect native 64-bit applications.
+- You may disable user interface tooltips via advanced %PRODUCTNAME% settings.

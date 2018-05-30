@@ -1,0 +1,5 @@
+Force triple buffering
+Overrides application settings and forces vertical synchronization for the application associated with the current profile.
+
+Hints:
+- You may disable user interface tooltips via advanced %PRODUCTNAME% settings.

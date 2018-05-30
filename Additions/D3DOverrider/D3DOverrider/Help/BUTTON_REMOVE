@@ -1,0 +1,6 @@
+Remove profile
+Removes currently selected application profile.
+
+Hints:
+- Pre-created profiles cannot be removed. You can only remove the profiles you've created.
+- You may disable user interface tooltips via advanced %PRODUCTNAME% settings.

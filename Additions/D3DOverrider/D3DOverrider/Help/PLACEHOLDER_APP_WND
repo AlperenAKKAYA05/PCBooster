@@ -1,0 +1,7 @@
+Application profiles list
+Displays application profiles list and allows you to manage the profiles. 
+Application profiles concept gives you flexible way of defining personal settings for any application. There is no need to create the profiles for each application, all applications missing in the profiles list will automatically use the global profile. Add new profiles only if it is necessary to define some personal settings specific to desired application, e.g. disable triple buffering forcing due to incompatibility with the game engine. Otherwise, just edit the global profile.
+
+Hints:
+- Pre-created profiles cannot be removed. You can only remove the profiles you've created.
+- You may disable user interface tooltips via advanced %PRODUCTNAME% settings.
